@@ -104,8 +104,8 @@ This demo shows how to create a session, capture photos, save metadata, and sear
 
 1. *Clone the repository*
 
-```
    bash
+```
    git clone [https://github.com/Ramadarshk/CameraSES.git](https://github.com/Ramadarshk/CameraSES.git)
  ```  
 
