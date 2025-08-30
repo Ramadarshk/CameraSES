@@ -40,7 +40,7 @@ A mobile app for capturing session-wise images, storing metadata, and searching 
 
 ## Project Structure
 
-
+```
 max.project.camerases/
 ├── dataBase/
 │   ├── SessionDAO.kt
@@ -58,7 +58,7 @@ max.project.camerases/
 │   ├── CameraView.kt
 │   └── SessionViews.kt
 └── MainActivity.kt
-
+```
 
 *Description:*
 
