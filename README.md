@@ -106,7 +106,7 @@ This demo shows how to create a session, capture photos, save metadata, and sear
 
    bash
 ```
-   git clone [https://github.com/Ramadarshk/CameraSES.git](https://github.com/Ramadarshk/CameraSES.git)
+   git clone [https://github.com/Ramadarshk/CameraSES.git
  ```  
 
 2. *Open in Android Studio*
